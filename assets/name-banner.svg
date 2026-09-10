@@ -1,0 +1,46 @@
+<svg width="900" height="180" viewBox="0 0 900 180"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .name {
+      font: 700 34px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #e6edf3;
+    }
+
+    .subtitle {
+      font: 400 17px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #8b949e;
+    }
+
+    .cursor {
+      fill: #e6edf3;
+      animation: blink 1s steps(2, start) infinite;
+    }
+
+    @keyframes blink {
+      50% {
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <rect width="900" height="180" rx="12" fill="#0d1117"/>
+
+  <text x="450" y="75"
+        text-anchor="middle"
+        class="name">
+    Hi, I'm Nguyễn Hoàng Nhân 👋
+  </text>
+
+  <text x="450" y="115"
+        text-anchor="middle"
+        class="subtitle">
+    Computer Science • AI • Software Engineering
+  </text>
+
+  <rect class="cursor"
+        x="693"
+        y="98"
+        width="2"
+        height="20"/>
+</svg>
