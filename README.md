@@ -7,6 +7,7 @@
 I'm a **Computer Science** student at **Ho Chi Minh City University of Technology - Vietnam National University Ho Chi Minh City**.
 
 I'm interested in **Artificial Intelligence** and **Software Engineering**.
+
 <div align="center">
   <img src="./assets/section-divider.svg" width="100%" alt="" />
 </div>
@@ -71,4 +72,6 @@ I'm interested in **Artificial Intelligence** and **Software Engineering**.
 </table>
 <img src="./assets/matrix-divider.svg" width="100%" alt="" />
 
-<div align="center"><sub>Learning • Building • Improving</sub></div>
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="" />
+</div>
