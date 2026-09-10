@@ -3,10 +3,12 @@
 </div>
 <img src="./assets/matrix-divider.svg" width="100%" alt="" />
 
-## WHO AM I ?
+## ABOUT ME
+> Learn deeply, build thoughtfully, and improve one step at a time.
+
 I'm a **Computer Science** student at **Ho Chi Minh City University of Technology - Vietnam National University Ho Chi Minh City**.
 
-I'm interested in **Artificial Intelligence** and **Software Engineering**.
+I'm interested in **AI Engineering** and **Software Engineering**.
 
 <div align="center">
   <img src="./assets/section-divider.svg" width="100%" alt="" />
