@@ -1,28 +1,15 @@
 <div align="center">
-
-<img src="./assets/computer-science.svg" width="100%" alt="Computer Science" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=8B949E&center=true&vCenter=true&width=720&height=32&lines=%3E+learning+by+building...;%3E+exploring+AI+%26+software...;%3E+still+learning%2C+one+step+at+a+time." alt="Terminal typing animation" />
-
+<img src="./assets/name-banner.svg" width="100%" alt="Hi, I'm Nguyễn Hoàng Nhân" />
 </div>
-
 <img src="./assets/matrix-divider.svg" width="100%" alt="" />
 
 ## WHO AM I ?
-
-I'm a **Computer Science** student at **Ho Chi Minh City University of Technology (HCMUT)**,  
-**Vietnam National University Ho Chi Minh City (VNU-HCM)**.
+I'm a **Computer Science** student at **Ho Chi Minh City University of Technology - Vietnam National University Ho Chi Minh City**.
 
 I'm interested in **Artificial Intelligence** and **Software Engineering**.
-
-<br/>
-
 <img src="./assets/matrix-divider.svg" width="100%" alt="" />
 
 ## TECHNICAL STACK
-
 <table width="100%">
   <tr>
     <td width="20%" valign="middle"><strong>LANGUAGES</strong></td>
@@ -42,11 +29,16 @@ I'm interested in **Artificial Intelligence** and **Software Engineering**.
     <td width="20%" valign="middle"><strong>DATABASE</strong></td>
     <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="middle"><strong>ODM</strong></td>
+    <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/Mongoose-000000?style=flat-square&logo=mongoose&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="middle"><strong>BACKEND</strong></td>
+    <td width="20%" valign="middle"><strong>BACKEND / API</strong></td>
     <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=white" />
@@ -64,19 +56,17 @@ I'm interested in **Artificial Intelligence** and **Software Engineering**.
     <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="middle"><strong>MODELS / AI API</strong></td>
+    <td width="80%" valign="middle">
       <img src="https://img.shields.io/badge/CLIP-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/GPT--2-000000?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=googlegemini&logoColor=white" />
     </td>
   </tr>
 </table>
-
-<br/>
-
 <img src="./assets/matrix-divider.svg" width="100%" alt="" />
 
-<div align="center">
-
-<sub>Learning • Building • Improving</sub>
-
-</div>
+<div align="center"><sub>Learning • Building • Improving</sub></div>
